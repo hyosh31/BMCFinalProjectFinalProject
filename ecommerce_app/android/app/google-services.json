@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386757460223",
+    "project_id": "diy-home-improvement-store",
+    "storage_bucket": "diy-home-improvement-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386757460223:android:872021b0a0d9dc03894cca",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrR24RNIUlGprKnjnns8p3C_ciXO7yw3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
